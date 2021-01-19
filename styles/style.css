@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=751&q=80');
+  background-image: url('https://images.unsplash.com/photo-1610874933184-7728fd666162?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
@@ -7,10 +7,19 @@ body {
 
 p{ 
 	color : green;
+	font-size: 20px;
 }
 
 html {
 	font-family: 'Amiri', serif;
-	font-family: 'Indie Flower', cursive;
 	font-size: 10px;
+}
+
+
+
+.profile-img{
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+
 }
