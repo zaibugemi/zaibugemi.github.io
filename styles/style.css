@@ -2,3 +2,8 @@ p {
 	color : green;
 }
 
+html {
+	font-family: 'Amiri', serif;
+	font-family: 'Indie Flower', cursive;
+	font-size: 10px;
+}
